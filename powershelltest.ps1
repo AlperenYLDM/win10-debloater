@@ -1,1 +1,1 @@
-choco install adobereader -y >$null 2>&1
+choco install adobereader -y
