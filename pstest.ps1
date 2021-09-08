@@ -1,1 +1,1 @@
-powershell -command "choco install adobereader -y"
+choco install adobereader -y
