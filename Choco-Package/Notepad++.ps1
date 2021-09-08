@@ -1,0 +1,1 @@
+choco install notepadplusplus.install -y >$null 2>&1

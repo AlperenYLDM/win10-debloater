@@ -1,0 +1,1 @@
+choco install nvidia-geforce-now -y >$null 2>&1

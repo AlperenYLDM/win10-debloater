@@ -1,0 +1,1 @@
+choco install ubisoft-connect -y >$null 2>&1

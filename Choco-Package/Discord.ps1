@@ -1,0 +1,1 @@
+choco install discord -y >$null 2>&1

@@ -1,0 +1,1 @@
+choco install googlechrome -y >$null 2>&1
